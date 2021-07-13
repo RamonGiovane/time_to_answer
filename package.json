@@ -1,7 +1,14 @@
 {
   "name": "time_to_answer",
   "private": true,
-  "dependencies": {},
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "5.15.3",
+    "bootstrap": "4.6.0",
+    "chart.js": "2.9.4",
+    "datatables": "^1.10.18",
+    "jquery": "3.6.0",
+    "jquery.easing": "1.4.1"
+  },
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/RamonGiovane/time_to_answer",
